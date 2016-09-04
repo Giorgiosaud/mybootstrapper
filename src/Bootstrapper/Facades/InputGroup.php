@@ -3,7 +3,7 @@
  * Bootstrapper InputGroup facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for InputGroup class

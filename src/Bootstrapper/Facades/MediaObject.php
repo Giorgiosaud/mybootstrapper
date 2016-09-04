@@ -3,7 +3,7 @@
  * Bootstrapper Media Object facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for MediaObject class

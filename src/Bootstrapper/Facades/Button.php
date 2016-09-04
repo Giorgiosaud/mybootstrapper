@@ -3,7 +3,7 @@
  * Bootstrapper Button facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Button class

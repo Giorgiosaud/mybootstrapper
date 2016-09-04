@@ -1,6 +1,6 @@
 <?php
 
-namespace Bootstrapper\Bridges\Config;
+namespace Giorgiosaud\Bootstrapper\Bridges\Config;
 
 interface ConfigInterface
 {

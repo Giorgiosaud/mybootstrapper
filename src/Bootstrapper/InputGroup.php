@@ -3,8 +3,8 @@
  * Bootstrapper InputGroup class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 /**
  * Creates Bootstrap 3 compliant input groups (for forms)
  *

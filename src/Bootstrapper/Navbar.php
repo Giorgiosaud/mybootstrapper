@@ -3,8 +3,8 @@
  * Bootstrapper Navbar class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Illuminate\Routing\UrlGenerator;
 
 /**

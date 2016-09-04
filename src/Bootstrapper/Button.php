@@ -3,8 +3,8 @@
  * Bootstrapper Button class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 /**
  * Creates a Bootstrap 3 compliant Button
  *

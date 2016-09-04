@@ -3,7 +3,7 @@
  * Bootstrapper Badge class
  */
 
-namespace Bootstrapper;
+namespace Giorgiosaud\Bootstrapper;
 
 /**
  * Creates Bootstrap 3 compliant Badges

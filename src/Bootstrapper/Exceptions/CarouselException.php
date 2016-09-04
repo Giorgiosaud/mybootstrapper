@@ -3,7 +3,7 @@
  * Bootstrapper Carousel exception
  */
 
-namespace Bootstrapper\Exceptions;
+namespace Giorgiosaud\Bootstrapper\Exceptions;
 
 /**
  * Exceptions thrown by the Carousel Class

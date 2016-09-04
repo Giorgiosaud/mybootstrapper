@@ -3,7 +3,7 @@
  * Bootstrapper Thumbnail Exception
  */
 
-namespace Bootstrapper\Exceptions;
+namespace Giorgiosaud\Bootstrapper\Exceptions;
 
 /**
  * Exception used by the Thumbnail class

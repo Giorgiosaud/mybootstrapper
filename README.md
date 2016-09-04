@@ -15,51 +15,51 @@ Add the following to your `composer.json` file :
 
 ```json
 "require": {
-    "patricktalmadge/bootstrapper": "~5",
+    "giorgiosaud/bootstrapper": "~5",
 },
 ```
 
 Then register Bootstrapper's service provider with Laravel:
 
 ```php
-'Bootstrapper\BootstrapperServiceProvider',
+'Giorgiosaud\Bootstrapper\BootstrapperServiceProvider',
 ```
 
 If you are using Laravel 5, then you should instead use the Laravel 5 service
 provider.
 
 ```php
-'Bootstrapper\BootstrapperL5ServiceProvider',
+'Giorgiosaud\Bootstrapper\BootstrapperL5ServiceProvider',
 ```
 
 You can then (if you want to) add the following aliases to your `aliases` 
 array in your `config/app.php` file.
 
 ```php
-'Accordion' => 'Bootstrapper\Facades\Accordion',
-'Alert' => 'Bootstrapper\Facades\Alert',
-'Badge' => 'Bootstrapper\Facades\Badge',
-'Breadcrumb' => 'Bootstrapper\Facades\Breadcrumb',
-'Button' => 'Bootstrapper\Facades\Button',
-'ButtonGroup' => 'Bootstrapper\Facades\ButtonGroup',
-'Carousel' => 'Bootstrapper\Facades\Carousel',
-'ControlGroup' => 'Bootstrapper\Facades\ControlGroup',
-'DropdownButton' => 'Bootstrapper\Facades\DropdownButton',
-'Form' => 'Bootstrapper\Facades\Form',
-'Helpers' => 'Bootstrapper\Facades\Helpers',
-'Icon' => 'Bootstrapper\Facades\Icon',
-'InputGroup' => 'Bootstrapper\Facades\InputGroup',
-'Image' => 'Bootstrapper\Facades\Image',
-'Label' => 'Bootstrapper\Facades\Label',
-'MediaObject' => 'Bootstrapper\Facades\MediaObject',
-'Modal' => 'Bootstrapper\Facades\Modal',
-'Navbar' => 'Bootstrapper\Facades\Navbar',
-'Navigation' => 'Bootstrapper\Facades\Navigation',
-'Panel' => 'Bootstrapper\Facades\Panel',
-'ProgressBar' => 'Bootstrapper\Facades\ProgressBar',
-'Tabbable' => 'Bootstrapper\Facades\Tabbable',
-'Table' => 'Bootstrapper\Facades\Table',
-'Thumbnail' => 'Bootstrapper\Facades\Thumbnail',
+'Accordion' => 'Giorgiosaud\Bootstrapper\Facades\Accordion',
+'Alert' => 'Giorgiosaud\Bootstrapper\Facades\Alert',
+'Badge' => 'Giorgiosaud\Bootstrapper\Facades\Badge',
+'Breadcrumb' => 'Giorgiosaud\Bootstrapper\Facades\Breadcrumb',
+'Button' => 'Giorgiosaud\Bootstrapper\Facades\Button',
+'ButtonGroup' => 'Giorgiosaud\Bootstrapper\Facades\ButtonGroup',
+'Carousel' => 'Giorgiosaud\Bootstrapper\Facades\Carousel',
+'ControlGroup' => 'Giorgiosaud\Bootstrapper\Facades\ControlGroup',
+'DropdownButton' => 'Giorgiosaud\Bootstrapper\Facades\DropdownButton',
+'Form' => 'Giorgiosaud\Bootstrapper\Facades\Form',
+'Helpers' => 'Giorgiosaud\Bootstrapper\Facades\Helpers',
+'Icon' => 'Giorgiosaud\Bootstrapper\Facades\Icon',
+'InputGroup' => 'Giorgiosaud\Bootstrapper\Facades\InputGroup',
+'Image' => 'Giorgiosaud\Bootstrapper\Facades\Image',
+'Label' => 'Giorgiosaud\Bootstrapper\Facades\Label',
+'MediaObject' => 'Giorgiosaud\Bootstrapper\Facades\MediaObject',
+'Modal' => 'Giorgiosaud\Bootstrapper\Facades\Modal',
+'Navbar' => 'Giorgiosaud\Bootstrapper\Facades\Navbar',
+'Navigation' => 'Giorgiosaud\Bootstrapper\Facades\Navigation',
+'Panel' => 'Giorgiosaud\Bootstrapper\Facades\Panel',
+'ProgressBar' => 'Giorgiosaud\Bootstrapper\Facades\ProgressBar',
+'Tabbable' => 'Giorgiosaud\Bootstrapper\Facades\Tabbable',
+'Table' => 'Giorgiosaud\Bootstrapper\Facades\Table',
+'Thumbnail' => 'Giorgiosaud\Bootstrapper\Facades\Thumbnail',
 ```
 
 ## Including Bootstrap

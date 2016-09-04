@@ -3,8 +3,8 @@
  * Bootstrapper Image class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Exceptions\ImageException;
 
 /**

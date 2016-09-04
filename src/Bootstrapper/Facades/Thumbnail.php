@@ -3,7 +3,7 @@
  * Bootstrapper Thumbnail facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Thumbnails

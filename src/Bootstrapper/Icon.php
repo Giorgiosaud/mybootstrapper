@@ -3,8 +3,8 @@
  * Bootstrapper Icon class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Bridges\Config\ConfigInterface;
 use Bootstrapper\Exceptions\IconException;
 

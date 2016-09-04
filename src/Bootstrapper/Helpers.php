@@ -3,8 +3,8 @@
  * Bootstrapper Helper functions
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Bridges\Config\ConfigInterface;
 
 /**

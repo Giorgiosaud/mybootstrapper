@@ -3,7 +3,7 @@
  * Bootstrapper generic facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

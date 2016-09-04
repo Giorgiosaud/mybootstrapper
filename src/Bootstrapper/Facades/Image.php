@@ -3,7 +3,7 @@
  * Bootstrapper Image facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Image class

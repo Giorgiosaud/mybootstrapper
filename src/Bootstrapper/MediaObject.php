@@ -3,8 +3,8 @@
  * Bootstrapper Media Object class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Exceptions\MediaObjectException;
 
 /**

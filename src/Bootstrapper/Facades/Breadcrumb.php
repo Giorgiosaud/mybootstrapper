@@ -3,7 +3,7 @@
  * Bootstrapper Breadcrumb facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for the Breadcrumb class

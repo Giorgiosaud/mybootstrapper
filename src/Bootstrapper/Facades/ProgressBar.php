@@ -3,7 +3,7 @@
  * Bootstrapper ProgressBar facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for ProgressBar

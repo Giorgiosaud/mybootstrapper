@@ -3,8 +3,8 @@
  * Bootstrapper label class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 /**
  * Creates bootstrap 3 compliant labels
  *

@@ -3,8 +3,8 @@
  * Bootstrapper ControlGroup class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Exceptions\ControlGroupException;
 
 /**

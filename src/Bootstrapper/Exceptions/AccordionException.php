@@ -3,7 +3,7 @@
  * Exceptions for Accordions
  */
 
-namespace Bootstrapper\Exceptions;
+namespace Giorgiosaud\Bootstrapper\Exceptions;
 
 /**
  * Exceptions for Accordion class

@@ -3,7 +3,7 @@
  * Bootstrapper Navbar facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Navbar class

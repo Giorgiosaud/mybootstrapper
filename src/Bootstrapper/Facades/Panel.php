@@ -3,7 +3,7 @@
  * Bootstrapper panel facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for the Panel class

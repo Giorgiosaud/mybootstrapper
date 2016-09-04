@@ -3,7 +3,7 @@
  * Bootstrapper DropdownButton facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for DropdownButton class

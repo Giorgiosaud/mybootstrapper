@@ -2,8 +2,8 @@
 /**
  * Bootstrapper base class for objects
  */
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 /**
  * Rendered Object abstract class
  *

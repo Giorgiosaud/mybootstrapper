@@ -3,8 +3,8 @@
  * Bootstrapper Table class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Bootstrapper\Interfaces\TableInterface;
 
 /**

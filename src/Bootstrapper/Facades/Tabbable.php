@@ -3,7 +3,7 @@
  * Bootstrapper Tabbable facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Tabbable class

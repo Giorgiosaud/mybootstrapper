@@ -3,8 +3,8 @@
  * Bootstrapper Form class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 use Collective\Html\FormBuilder;
 
 /**

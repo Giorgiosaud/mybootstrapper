@@ -3,7 +3,7 @@
  * Bootstrapper Attributes class
  */
 
-namespace Bootstrapper;
+namespace Giorgiosaud\Bootstrapper;
 
 /**
  * Simple attributes bag

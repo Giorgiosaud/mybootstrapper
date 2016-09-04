@@ -3,8 +3,8 @@
  * Bootstrapper Modal class
  */
 
-namespace Bootstrapper;
 
+namespace Giorgiosaud\Bootstrapper;
 /**
  * Creates Bootstrap 3 compliant modal
  *

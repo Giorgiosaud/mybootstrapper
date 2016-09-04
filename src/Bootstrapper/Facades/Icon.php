@@ -3,7 +3,7 @@
  * Bootstrapper Icon facade
  */
 
-namespace Bootstrapper\Facades;
+namespace Giorgiosaud\Bootstrapper\Facades;
 
 /**
  * Facade for Icon class

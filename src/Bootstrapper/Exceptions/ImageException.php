@@ -3,7 +3,7 @@
  * Bootstrapper Image Exceptions
  */
 
-namespace Bootstrapper\Exceptions;
+namespace Giorgiosaud\Bootstrapper\Exceptions;
 
 use Exception;
 

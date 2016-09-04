@@ -4,9 +4,9 @@
  * Fix issue with no get methods form
  */
 
-namespace Bootstrapper;
+namespace Giorgiosaud\Bootstrapper;
 
-use Bootstrapper\Bridges\Config\Laravel5Config;
+use Giorgiosaud\Bootstrapper\Bridges\Config\Laravel5Config;
 use Collective\Html\HtmlBuilder;
 use Illuminate\Support\ServiceProvider;
 

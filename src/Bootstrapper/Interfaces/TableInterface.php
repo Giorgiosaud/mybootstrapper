@@ -1,6 +1,6 @@
 <?php
 
-namespace Bootstrapper\Interfaces;
+namespace Giorgiosaud\Bootstrapper\Interfaces;
 
 /**
  * Interface for objects that are being displayed in a table
