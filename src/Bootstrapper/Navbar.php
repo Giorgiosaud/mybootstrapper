@@ -111,7 +111,7 @@ class Navbar extends RenderedObject
         $string = "<nav class='navbar-collapse collapse'>";
 
         foreach ($this->content as $item) {
-            if (is_a($item, 'Bootstrapper\\Navigation')) {
+            if (is_a($item, 'Giorgiosaud\\Bootstrapper\\Navigation')) {
                 $item->navbar();
             }
             $string .= $item;
