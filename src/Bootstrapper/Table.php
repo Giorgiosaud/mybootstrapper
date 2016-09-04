@@ -5,7 +5,7 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Interfaces\TableInterface;
+use Giorgiosaud\Bootstrapper\Interfaces\TableInterface;
 
 /**
  * Creates Bootstrap 3 compliant tables

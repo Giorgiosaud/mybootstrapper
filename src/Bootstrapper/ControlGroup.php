@@ -5,7 +5,7 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Exceptions\ControlGroupException;
+use Giorgiosaud\Bootstrapper\Exceptions\ControlGroupException;
 
 /**
  * Creates Bootstrap 3 compliant control groups (for forms)

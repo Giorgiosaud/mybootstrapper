@@ -6,7 +6,7 @@
 
 namespace Giorgiosaud\Bootstrapper;
 
-use Bootstrapper\Exceptions\ButtonGroupException;
+use Giorgiosaud\Bootstrapper\Exceptions\ButtonGroupException;
 
 /**
  * Creates Bootstrap 3 compliant Button Groups

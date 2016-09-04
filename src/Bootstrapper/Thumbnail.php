@@ -5,7 +5,9 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Exceptions\ThumbnailException;
+
+use Giorgiosaud\Bootstrapper\Exceptions\ThumbnailException;
+
 
 /**
  * Creates Bootstrap 3 compliant Thumbnail

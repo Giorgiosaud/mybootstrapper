@@ -5,7 +5,8 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Exceptions\MediaObjectException;
+
+use Giorgiosaud\Bootstrapper\Exceptions\MediaObjectException;
 
 /**
  * Creates Bootstrap 3 compliant Media Objects

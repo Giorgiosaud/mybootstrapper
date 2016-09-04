@@ -5,7 +5,7 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Exceptions\ImageException;
+use Giorgiosaud\Bootstrapper\Exceptions\ImageException;
 
 /**
  * Creates Bootstrap 3 compliant images

@@ -5,8 +5,8 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Bridges\Config\ConfigInterface;
-use Bootstrapper\Exceptions\IconException;
+use Giorgiosaud\Bootstrapper\Bridges\Config\ConfigInterface;
+use Giorgiosaud\Bootstrapper\Exceptions\IconException;
 
 /**
  * Creates Bootstrap 3 compliant Icons

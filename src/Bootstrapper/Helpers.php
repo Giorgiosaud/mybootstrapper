@@ -5,7 +5,8 @@
 
 
 namespace Giorgiosaud\Bootstrapper;
-use Bootstrapper\Bridges\Config\ConfigInterface;
+
+use Giorgiosaud\Bootstrapper\Bridges\Config\ConfigInterface;
 
 /**
  * Helper class
