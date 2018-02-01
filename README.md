@@ -22,13 +22,6 @@ Add the following to your `composer.json` file :
 Then register Bootstrapper's service provider with Laravel:
 
 ```php
-'Giorgiosaud\Bootstrapper\BootstrapperServiceProvider',
-```
-
-If you are using Laravel 5, then you should instead use the Laravel 5 service
-provider.
-
-```php
 'Giorgiosaud\Bootstrapper\BootstrapperL5ServiceProvider',
 ```
 

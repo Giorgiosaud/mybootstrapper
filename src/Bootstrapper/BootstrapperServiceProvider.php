@@ -15,7 +15,7 @@ use Illuminate\Support\ServiceProvider;
  *
  * @package Bootstrapper
  */
-class BootstrapperL5ServiceProvider extends ServiceProvider
+class BootstrapperServiceProvider extends ServiceProvider
 {
 
     /**
